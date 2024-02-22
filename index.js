@@ -19,9 +19,9 @@ $(document).ready(function() {
     });
 });
 $(document).ready(function() {
-    $('.travels').click(function(e) {
+    $('.about').click(function(e) {
         e.preventDefault(); 
-        window.location.href = 'travels.html'; 
+        window.location.href = 'about.html'; 
     });
 });
 
