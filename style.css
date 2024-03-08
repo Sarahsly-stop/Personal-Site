@@ -519,7 +519,7 @@ body, html {
   border-radius: 50%;
 }
 .fluteimg{
-  border-radius: 20%;
+  border-radius: 15px 50px 30px;
 
 }
 .climb{
@@ -918,13 +918,16 @@ body, html {
 
   color: rgba(27, 20, 20, 0.63);
   box-sizing: border-box;
+  
 }
 
 /* Update the border color for the rows */
 .about-row {
-  border: 30px solid rgba(241, 98, 98, 0.329);
- 
-  
+  border-radius: 50px;
+  border-width: 30px;
+  border-style: solid;
+  border-image: linear-gradient(to right, rgba(241, 98, 98, 0.356), rgba(223, 91, 91, 0.842)) 1;
+  box-sizing: border-box;
 }
 
 /* Update the color for section headings */
@@ -936,7 +939,7 @@ body, html {
 .pets-img,
 .mtn-img,
 .flute-img {
-  border-radius: 20%;
+  border-radius: 50px;
 }
 
 .heb, .mck, .bain {
