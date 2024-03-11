@@ -939,7 +939,10 @@ body, html {
 .pets-img,
 .mtn-img,
 .flute-img {
-  border-radius: 50px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 67% 88% 64% 96% / 77% 58% 100% 77% ;
+  box-shadow: 0 0 10px 10px rgba(182, 177, 177, 0.384);
 }
 
 .heb, .mck, .bain {
