@@ -56,7 +56,7 @@ $(document).ready(function() {
 $(document).ready(function() {
     $('.resumedwnld').click(function(e) {
         e.preventDefault(); 
-        window.location.href = './slwresumenew2.pdf'; 
+        window.location.href = './SLWResumepdf.pdf'; 
     });
 });
 
