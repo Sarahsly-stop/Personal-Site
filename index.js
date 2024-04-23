@@ -59,3 +59,11 @@ $(document).ready(function() {
         window.location.href = './slwresumenew2.pdf'; 
     });
 });
+
+$(document).ready(function() {
+    $('.projectdwnld').click(function(e) {
+        e.preventDefault(); 
+        window.location.href = './EmergencyResponseProject.pdf'; 
+    });
+});
+
