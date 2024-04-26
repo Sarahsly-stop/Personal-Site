@@ -832,25 +832,26 @@ body, html {
 }
 .experience1{
   margin-top: 20px;
-  font-size: 1.25rem;
+  font-size: 20px;
   letter-spacing: 2.5px;
-  color: rgba(27, 20, 20, 0.815);
+  color:rgba(27, 20, 20, 0.815) ;
+  
 }
 .experience2{
   margin-top: 20px;
-  font-size: 1.25rem;
+  font-size: 20px;
   letter-spacing: 2.5px;
   color: rgba(27, 20, 20, 0.815);
 }
 .experience3{
   margin-top: 20px;
-  font-size: 1.25rem;
+  font-size: 20px;
   letter-spacing: 2.5px;
   color: rgba(27, 20, 20, 0.815);
 }
 .experience4{
   margin-top: 20px;
-  font-size: 1.25rem;
+  font-size: 20px;
   letter-spacing: 2.5px;
   color: rgba(27, 20, 20, 0.815);
 }
@@ -966,3 +967,8 @@ body, html {
   color: rgb(0, 0, 0);
 }
 
+
+.titles{
+  color:rgba(241, 98, 98, 0.685) ;
+  font-size: 30px;
+}
